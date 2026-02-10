@@ -1,0 +1,5 @@
+Category,Criteria,Scoring Metrics,Calculation Formula,Notes
+Strategy,Define marketing objectives,"1-5, where 1 = Poor, 5 = Excellent","Score = SUM(criteria scores) / total criteria","Assesses clarity of objectives"
+Technology,Utilize automation tools,"1-5, where 1 = Not used, 5 = Fully utilized","Score = SUM(usage scores) / total tools","Evaluates tool adoption"
+Process,Content Production Efficiency,"1-5, where 1 = Low, 5 = High","Score = (Total Content Produced / Total Hours Worked) * 5","Measures efficiency in creation"
+People,Marketing Team Skills,"1-5, where 1 = Low skills, 5 = High skills","Score = SUM(skill assessments) / total skills","Rates team competency"
